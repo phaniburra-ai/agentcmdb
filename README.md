@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="./assets/banner.png" width="100%" />
+</p>
+
 # AgentCMDB 🚀
 ### System of Record + Control Plane for Enterprise AI Agents
 

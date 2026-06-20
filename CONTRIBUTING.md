@@ -256,7 +256,7 @@ All contributors will be acknowledged in the project. Significant contributors m
 
 We are building the **standard system of record for enterprise AI agents** — and every contribution, large or small, moves that vision forward.
 
-Thank you for being part of this. 🚀
+Thank you for being part of this.
 
 ---
 

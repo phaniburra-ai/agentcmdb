@@ -3,20 +3,20 @@
   <img src="./assets/banner.png" width="100%" />
 </p>
 
-# AgentCMDB 🚀
+# AgentCMDB 
 ### System of Record + Control Plane for Enterprise AI Agents
 
 AgentCMDB is the **ServiceNow for AI Agents** — a system of record, governance layer, and control plane for managing AI agents at enterprise scale.
 
 ---
 
-## 🧠 Why AgentCMDB?
+##  Why AgentCMDB?
 
 Enterprises are rapidly deploying AI agents across workflows, tools, and platforms.
 
 But there’s a growing problem:
 
-## ❗ The Problem
+##  The Problem
 
 - No central inventory of AI agents  
 - Ownership is unclear  
@@ -28,19 +28,19 @@ This creates **“Agent Sprawl”** — similar to shadow IT, but harder to cont
 
 ---
 
-## ✅ The Solution
+##  The Solution
 
 AgentCMDB provides:
 
-- 🧾 A **CMDB for AI agents**
-- 🔍 Full **visibility across all agents**
-- 🔐 Governance and policy enforcement
-- 💰 Cost tracking and optimization
-- 🧭 A centralized **AI control plane**
+-  A **CMDB for AI agents**
+-  Full **visibility across all agents**
+-  Governance and policy enforcement
+-  Cost tracking and optimization
+-  A centralized **AI control plane**
 
 ---
 
-## 🎯 Positioning
+##  Positioning
 
 Built for the era of AI agents — just as:
 
@@ -51,7 +51,7 @@ Built for the era of AI agents — just as:
 
 ---
 
-## 👥 Who is this for?
+##  Who is this for?
 
 - CIO / CTO → enterprise AI visibility & governance  
 - Platform teams → AI infrastructure & lifecycle  
@@ -60,43 +60,43 @@ Built for the era of AI agents — just as:
 
 ---
 
-## 🎯 Key Capabilities
+##  Key Capabilities
 
-### 🧾 Agent Registry (CMDB)
+###  Agent Registry (CMDB)
 - Inventory of all AI agents
 - Ownership, metadata, dependencies
 - Risk classification + lifecycle state
 
-### 🔍 Agent Discovery
+###  Agent Discovery
 - Register agents from:
   - LangChain / LangGraph  
   - CrewAI  
   - Copilot / APIs  
   - CI/CD pipelines  
 
-### 🧭 Control Tower (UI)
+###  Control Tower (UI)
 - View all agents across the organization  
 - Monitor workflows, failures, activity  
 - Track agent health and usage  
 
-### 🔄 Lifecycle Management
+###  Lifecycle Management
 - Dev → Test → Prod workflows  
 - Versioning + rollback  
 - Approval workflows (enterprise)  
 
-### 🔐 Governance + Policy Engine
+###  Governance + Policy Engine
 - Data access control  
 - Agent permissions  
 - Runtime guardrails  
 
-### 💰 Cost & FinOps for AI
+###  Cost & FinOps for AI
 - Token usage tracking  
 - Cost per agent / workflow  
 - ROI visibility  
 
 ---
 
-## 🧪 Example Scenario
+##  Example Scenario
 
 A company has:
 - 120 AI agents across finance, HR, and customer support  
@@ -116,7 +116,7 @@ With AgentCMDB:
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 AgentCMDB acts as a centralized control layer between AI agents and enterprise workflows.
 ```
@@ -140,7 +140,7 @@ Agent Runtime
 (LangChain, CrewAI, APIs, Copilot)
 ```
 ---
-## ⚡ Quick Start
+##  Quick Start
 
 ### Prerequisites
 - Python 3.10+
@@ -167,7 +167,7 @@ docker compose up --build
 
 ---
 
-## 🔌 API & SDK
+##  API & SDK
 
 ### SDK Example
 
@@ -202,7 +202,7 @@ AgentCMDB provides APIs to:
 
 ---
 
-## 🛣️ Roadmap
+##  Roadmap
 
 ### Phase 1 (MVP)
 - Agent registry (CMDB)  
@@ -236,7 +236,7 @@ AgentCMDB provides APIs to:
 
 ---
 
-## 🚀 Vision
+##  Vision
 
 AgentCMDB aims to become the **standard system of record and control plane for enterprise AI agents**.
 

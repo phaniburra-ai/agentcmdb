@@ -1,0 +1,8 @@
+{
+  "event_type": "execution.completed",
+  "message": "Processed contract review workflow",
+  "input_tokens": 2400,
+  "output_tokens": 780,
+  "cost_usd": 0.084,
+  "status": "success"
+}

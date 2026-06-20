@@ -261,6 +261,6 @@ Enterprise features available under commercial license → [Agent CMDB](https://
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 Contributions welcome. Please read [CONTRIBUTING.md](./CONTRIBUTING.md) 
 or open an issue to discuss what you'd like to change.

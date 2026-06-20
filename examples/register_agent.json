@@ -1,0 +1,17 @@
+{
+  "name": "Contract Review Agent",
+  "description": "Reviews customer contracts, extracts obligations, and routes exceptions for legal review.",
+  "owner": "Legal Operations",
+  "business_unit": "Legal",
+  "environment": "prod",
+  "framework": "CrewAI",
+  "model_provider": "Anthropic",
+  "model_name": "Claude Sonnet",
+  "risk_level": "critical",
+  "lifecycle_state": "active",
+  "criticality": "critical",
+  "data_sources": ["SharePoint", "Contract Repository"],
+  "tools": ["Document Parser", "Legal Ticket Creator"],
+  "actions": ["extract_clause", "create_review_ticket"],
+  "tags": ["legal", "contracts", "governance"]
+}

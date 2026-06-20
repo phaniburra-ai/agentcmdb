@@ -1,0 +1,9 @@
+services:
+  agentcmdb:
+    build: .
+    ports:
+      - "8000:8000"
+    environment:
+      - AGENTCMDB_API_KEY=dev-agentcmdb-key
+    volumes:
+      - ./data:/app/data

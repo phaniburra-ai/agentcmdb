@@ -4,9 +4,15 @@
 </p>
 
 # AgentCMDB 
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-MVP-orange)
+![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen)
 ### System of Record + Control Plane for Enterprise AI Agents
 
 AgentCMDB is the **ServiceNow for AI Agents** — a system of record, governance layer, and control plane for managing AI agents at enterprise scale.
+
+**Live Platform:** [Agent CMDB](https://agentcmdb.com)  
 
 ---
 
@@ -150,7 +156,7 @@ Agent Runtime
 
 ### Run locally
 
-git clone https://github.com/your-org/agentcmdb  
+git clone https://github.com/phaniburra-ai/agentcmdb  
 cd agentcmdb/backend  
 
 pip install -r requirements.txt  
@@ -247,4 +253,14 @@ As organizations scale AI adoption, agents will become critical digital assets �
 
 👉 AgentCMDB defines this new category for the AI era.
 
+---
 
+##  License
+MIT License — see [LICENSE](./LICENSE) for details.
+Enterprise features available under commercial license → [Agent CMDB](https://agentcmdb.com)
+
+---
+
+## 🤝 Contributing
+Contributions welcome. Please read [CONTRIBUTING.md](./CONTRIBUTING.md) 
+or open an issue to discuss what you'd like to change.
